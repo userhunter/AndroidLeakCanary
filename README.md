@@ -1,0 +1,2 @@
+# AndroidLeakCanary
+这个库是一个使用当前的LeakCanary开源库检测当前的Activity发生内存泄露的例子，欢迎大家拍砖。
